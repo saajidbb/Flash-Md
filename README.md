@@ -1,14 +1,14 @@
-<h1 align="center"> 𝐓𝐇𝐄 𝐅𝐋𝐀𝐒𝐇 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
+<h1 align="center"> 𝐓𝐇𝐄 𝐌𝐒𝐈 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +FLASH-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FRANCE+KING;RELEASED+22.2.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +SAAJID-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+KING+SAAJI;RELEASED+22.2.2024" alt="Typing SVG" /></a>
   </p>
     <img alt="SAAJID-MD" width="700" height="300" src="https://telegra.ph/file/364b99d2678b3b89ebecd.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/franceking1/Flash-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/saajidbb/Flash-Md"><img title="Author" src="https://img.shields.io/badge/Saajid_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/franceking1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
@@ -20,9 +20,9 @@
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/franceking1/Flash-Md/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/saajidbb/Flash-Md/fork) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://scan-flash-md.onrender.com) Or [`PAIRING CODE`](https://flash-sessions.onrender.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://scan-saajid-md.onrender.com) Or [`PAIRING CODE`](https://saajid-sessions.onrender.com/pair)***
 
 *-Copy The Session ID to paste it in Heroku*
 
